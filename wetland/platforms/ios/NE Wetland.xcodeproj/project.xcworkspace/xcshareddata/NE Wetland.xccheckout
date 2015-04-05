@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E63640A-495A-4BD6-8114-9BFED8D7241D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NE Wetland</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E8EE2EE07D3D151C5CED8B99C3E4B9B1F64B35B9</key>
+		<string>https://github.com/tankwu/NE_Wetland.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>wetland/platforms/ios/NE Wetland.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E8EE2EE07D3D151C5CED8B99C3E4B9B1F64B35B9</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tankwu/NE_Wetland.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E8EE2EE07D3D151C5CED8B99C3E4B9B1F64B35B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8EE2EE07D3D151C5CED8B99C3E4B9B1F64B35B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NE_Wetland</string>
+		</dict>
+	</array>
+</dict>
+</plist>
